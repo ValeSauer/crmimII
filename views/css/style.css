@@ -1,0 +1,28 @@
+#CamImageOverlay{
+    position: absolute;
+    left: 15px;
+    top: 0px;
+    height: 338px;
+    width: 600px;
+}
+
+.co{
+    position: relative;
+    float: left;
+    width: 25%;
+    height: 25%;
+    text-align: center;
+    display: none;
+}
+
+#CamImageOverlay:hover .co{
+    display: block;
+}
+
+.icon-success{
+    color: green;
+}
+
+.icon-danger{
+    color: red;
+}

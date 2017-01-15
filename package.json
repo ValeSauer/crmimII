@@ -1,0 +1,14 @@
+{
+  "name": "mtprojekt",
+  "version": "1.0.0",
+  "description": "Acedemic project to demonstrate the use of JavaScript-based neuronal networks to identify weather in jpg landscape images",
+  "main": "index.js",
+  "author": "",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta4",
+	"brain": "latest",
+	"request": "latest",
+	"body-parser": "latest"
+  }
+}
